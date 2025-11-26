@@ -1,11 +1,10 @@
 # 1) Java: trabalhando com lambdas, streams e Spring Framework
-Projeto desenvolvido no [primeiro curso](https://cursos.alura.com.br/course/java-trabalhando-lambdas-streams-spring-framework) da formação Avançando com Java da Alura
+Projeto desenvolvido no  <a href="https://cursos.alura.com.br/course/java-trabalhando-lambdas-streams-spring-framework" target="_blank">primeiro curso</a> da formação Avançando com Java da Alura
 
-<br>
+<br><br>
 
 # 2) Java: persistência de dados e consultas com Spring Data JPA
-Projeto desenvolvido no [segundo curso](https://cursos.alura.com.br/course/java-persistencia-dados-consultas-spring-data-jpa) da formação Avançando com Java da Alura 
-
+Projeto desenvolvido no  <a href="https://cursos.alura.com.br/course/java-persistencia-dados-consultas-spring-data-jpa" target="_blank">terceiro curso</a> da formação Avançando com Java da Alura 
 
 ## 🔨 Objetivos do projeto
 
@@ -17,16 +16,16 @@ Projeto desenvolvido no [segundo curso](https://cursos.alura.com.br/course/java-
 - Trabalhar com vários tipos de consultas ao banco de dados;
 - Aprofundar na interface JPARepository
 
-<br>
+<br><br>
 
-# 2) Java: criando sua primeira API e conectando ao front
-Projeto desenvolvido no [terceiro curso](https://cursos.alura.com.br/course/java-criando-primeira-api-conectando-front) da formação Avançando com Java da Alura
+# 3) Java: criando sua primeira API e conectando ao front
+Projeto desenvolvido no <a href="https://cursos.alura.com.br/course/java-criando-primeira-api-conectando-front" target="_blank">terceiro curso</a> da formação Avançando com Java da Alura
 
 ## 🔨 Objetivos do projeto
 - Atualizar o projeto ScreenMatch, criado inicialmente com linha de comando, para se transformar em uma API REST;
 - Entender a estrutura MVC no desenvolvimento de aplicações Web;
 - Criar e mapear rotas utilizando as anotações do Spring;
 - Utilizar boas práticas e entender o conceito de DTO (Data Transfer Object);
-- Conectar dados disponibilizados pelo back-end à uma aplicação front-end, disponibilizada nesse [link](https://github.com/jacqueline-oliveira/3356-java-web-front)
+- Conectar dados disponibilizados pelo back-end à uma aplicação front-end, disponibilizada nesse <a href="https://github.com/jacqueline-oliveira/3356-java-web-front" target="_blank">link</a>
 - Tratar erros de CORS na disponibilização de dados;
 Fornecer uma experiência fullstack, demonstrando o fluxo ponta a ponta da aplicação.
