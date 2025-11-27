@@ -29,3 +29,8 @@ Projeto desenvolvido no <a href="https://cursos.alura.com.br/course/java-criando
 - Conectar dados disponibilizados pelo back-end à uma aplicação front-end, disponibilizada nesse <a href="https://github.com/jacqueline-oliveira/3356-java-web-front" target="_blank">link</a>
 - Tratar erros de CORS na disponibilização de dados;
 Fornecer uma experiência fullstack, demonstrando o fluxo ponta a ponta da aplicação.
+
+## Anotações
+### MVC
+Atualmente o mais comum no mercado é ter uma separação entre front-end e back-end. 
+No back-end, temos a Model e o Controller. O back-end fornece informações que serão utilizadas pelo front-end, que será responsável pela parte da View
