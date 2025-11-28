@@ -34,3 +34,19 @@ Fornecer uma experiência fullstack, demonstrando o fluxo ponta a ponta da aplic
 ### MVC
 Atualmente o mais comum no mercado é ter uma separação entre front-end e back-end. 
 No back-end, temos a Model e o Controller. O back-end fornece informações que serão utilizadas pelo front-end, que será responsável pela parte da View
+
+### Build automático da IDE
+settings > Build, Execution, Deployment > Compiler > Build project automatically
+advanced settings > Allow auto-make to start even if developed application is running
+```
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+    <scope>runtime</scope>
+    <optional>true</optional>
+</dependency>
+```
+
+
+
+
